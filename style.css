@@ -101,7 +101,7 @@ a{
 }
 
 .benefits{
-    background-color: #FFDBD6 ;
+    background-color: #FDD8F3 ;
     font-size: 20px;
     padding: 10px 100px;
     text-align: center;
@@ -146,4 +146,10 @@ a{
 .github-pic{
     width: 50px;
     height: auto;
+}
+
+.contact{
+    background-color: pink;
+    margin: 50px 300px
+
 }
